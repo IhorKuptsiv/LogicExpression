@@ -2,8 +2,7 @@ package homework;
 
 public class Begin34
 /*
- * Begin34. Проверить истинность высказывания:
- * "Цифры данного трехзначного числа образуют возрастающую или убывающую последовательность"
+ * Begin34. Test the validity of statements:"The figures of the three-digit number form an increasing or decreasing sequence "
  */
 {
 	
@@ -16,7 +15,7 @@ public class Begin34
 		int two = (i / 10) % 10;
 		int three = i % 10;
 		
-		if (one < two && two < three || one > two && two > three)
+		if (one < two && two < three) || (one > two && two > three)
 		{
 			System.out.println(true);
 		} else
