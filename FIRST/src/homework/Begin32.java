@@ -2,8 +2,7 @@ package homework;
 
 public class Begin32
 /*
- * Begin32. Проверить истинность высказывания:
- * "Все цифры данного трехзначного числа различны".
+ * Begin32. Test the validity of statements:"All the figures of the three-digit number are different. "
  */
 {
 	
