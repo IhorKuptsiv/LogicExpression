@@ -2,8 +2,7 @@ package homework;
 
 public class Begin25
 /*
- * Begin25. ѕроверить истинность высказывани€:
- * "ƒанное целое число €вл€етс€ четным двузначным числом".
+ * Begin25. Test the validity of statements:"This is an even integer double-digits. "
  */
 {
 	
