@@ -2,8 +2,7 @@ package homework;
 
 public class Begin27
 /*
- * Begin27. ѕроверить истинность высказывани€:
- * "—реди трех данных целых чисел есть хот€ бы одна пара совпадающих".
+ * Begin27. Test the validity of statements:"Among these three integers is even least one pair of matching ".
  */
 {
 	
