@@ -2,8 +2,7 @@ package homework;
 
 public class Begin36
 /*
- * Begin36. Проверить истинность высказывания:
- * "Цифры данного трехзначного числа образуют геометрическую прогрессию".
+ * Begin36. Test the validity of statements:"The figures of the three-digit number form a geometric progression. "
  */
 {
 	
