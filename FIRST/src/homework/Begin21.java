@@ -3,7 +3,7 @@ package homework;
 public class Begin21
 /*
  * Begin21. Test the validity of statements:"A quadratic equation A · x2 + B · x + C = 0 with these coefficients A, B, C has
- *real roots. "
+ * real roots. "
  * .
  */
 {
