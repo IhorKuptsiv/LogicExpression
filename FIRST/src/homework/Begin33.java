@@ -2,8 +2,7 @@ package homework;
 
 public class Begin33
 /*
- * Begin33. Проверить истинность высказывания:
- * "Цифры данного трехзначного числа образуют возрастающую последовательность".
+ * Begin33. Test the validity of statements:"The figures of the three-digit number form an increasing sequence. "
  */
 {
 	
