@@ -2,8 +2,7 @@ package homework;
 
 public class Begin29
 /*
- * Begin29. Проверить истинность высказывания:
- * "Сумма цифр данного трехзначного числа является четным числом".
+ * Begin29. Test the validity of statements:"The sum of digits of the three-digit number is an even number. "
  */
 {
 	
