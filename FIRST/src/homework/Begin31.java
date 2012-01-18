@@ -2,8 +2,7 @@ package homework;
 
 public class Begin31
 /*
- * Begin31. ѕроверить истинность высказывани€:
- * "ƒанное четырехзначное число читаетс€ одинаково слева направо и справа налево"
+ * Begin31. Test the validity of statements:"This four-digit number is read equally from left to right and from right to left. "
  */
 {
 	
