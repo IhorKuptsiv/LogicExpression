@@ -2,9 +2,8 @@ package homework;
 
 public class Begin24
 /*
- * Begin24. Проверить истинность высказывания: "Точка с координатами (x, y)
- * лежит внутри прямоугольника, левая верхняя вершина которого имеет координаты
- * (x1, y1), правая нижняя — (x2, y2), а стороны параллельны координатным осям".
+*Begin24. Test the validity of statements:"The point with coordinates (x, y) lies inside rectangle, the upper-left vertex
+*which has the coordinates (x1, y1), right Everyday - (x2, y2), and the sides are parallel the coordinate axes. "
  */
 {
 	
