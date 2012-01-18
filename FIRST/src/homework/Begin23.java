@@ -2,8 +2,7 @@ package homework;
 
 public class Begin23
 /*
- * Begin23. Проверить истинность высказывания:
- * "Данные числа x, y являются координатами точки, лежащей в первой или третьей координатной четверти"
+*Begin23. Test the validity of statements:"These numbers x, y are the coordinates point lying in the first or third coordinate a *quarter. "
  */
 {
 	
@@ -13,7 +12,7 @@ public class Begin23
 		int x = 1;
 		int y = 2;
 		
-		if (x > 0 && y > 0 || x > 0 && y < 0)
+		if (x < 0 && y < 0 || x > 0 && y > 0)
 		{
 			System.out.println(true);
 		} else
