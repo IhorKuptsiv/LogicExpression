@@ -2,8 +2,7 @@ package homework;
 
 public class Begin26
 /*
- * Begin26. Проверить истинность высказывания:
- * "Данное целое число является нечетным трехзначным числом".
+ * Begin26. Test the validity of statement: "This is an integer is an odd three-digit number. "
  */
 {
 	
