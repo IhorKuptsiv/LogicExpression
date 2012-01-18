@@ -2,8 +2,8 @@ package homework;
 
 public class Begin30
 /*
- * Begin30. Проверить истинность высказывания:
- * "Сумма двух первых цифр данного четырехзначного числа равна сумме двух его последних цифр"
+ * Begin30. Test the validity of statements:"The amount of the first two digits of the four-digit number is the sum of its two
+ * the last digit. "
  * .
  */
 {
