@@ -2,9 +2,7 @@ package homework;
 
 public class Begin28
 /*
- * Begin28. Проверить истинность высказывания:
- * "Среди трех данных целых чисел есть хотя бы одна пара взаимно противоположных"
- * .
+ * Begin28. Test the validity of remarks: "Among these three integers numbers is at least one pair of mutually the opposite. "
  */
 {
 	
